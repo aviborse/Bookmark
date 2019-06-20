@@ -1,8 +1,9 @@
 # bookmarks
 
-I research a and bookmark a lot of stuff that I like. I thought it would be a good idea to share them as these are resources that I wish someone had pointed me to when I was starting out, or things that I found really cool and wanted to share with other people. 
+I research and bookmark a lot of stuff that I like. I thought it would be a good idea to share them as these are resources that I wish someone had pointed me to when I was starting out, or things that I found really cool and wanted to share with other people. 
 
 ---
+
 
 ## Coding 
 
