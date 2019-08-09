@@ -5,13 +5,13 @@ I research and bookmark a lot of stuff that I like. I thought it would be a good
 ---
 ## Coding 
 
-#### VIM
+### VIM
 
 * [A Good Vimrc](https://dougblack.io/words/a-good-vimrc.html)[Vimcasts - Free screencasts about the text editor Vim](http://vimcasts.org/)
 * [Why I love Vim: It’s the lesser-known features that make it so amazing](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
 * [10 Vim Tips to Ease the Learning Curve. – Hung Q. Le – Medium](https://medium.com/@hql287/10-vim-tips-to-ease-the-learning-curve-c8234cbdafa5)
 
-#### Competitive
+### Competitive
 
 * [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](https://codeforces.com/blog/entry/13529)
 * [All of the good tutorials found on codeforces - Codeforces](https://codeforces.com/blog/entry/57282)
@@ -29,12 +29,12 @@ I research and bookmark a lot of stuff that I like. I thought it would be a good
 * [Learn Data Structures and Algorithms | CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
 * [A2 Online Judge](https://a2oj.com/)
 
-#### JS Resources
+### JS Resources
 
 * [A Study Plan To Cure JavaScript Fatigue – freeCodeCamp.org](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-#### Environment 
+### Environment 
 
 * [My Linux Development Environment of 2018 - DEV Community](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 * [My favorite command-line utilities – Hacker Noon](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
@@ -42,7 +42,7 @@ I research and bookmark a lot of stuff that I like. I thought it would be a good
 * [CLIfe or my development setup – Hacker Noon](https://hackernoon.com/clife-or-my-development-setup-67868b86cb57)
 * [VIM and Python – A Match Made in Heaven – Real Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
 
-#### News
+### News
 
 * [Hacker News](https://news.ycombinator.com/)
 * [programming](https://www.reddit.com/r/programming/)
@@ -62,7 +62,7 @@ ___
 
 ## Linux 
 
-#### Security
+### Security
 
 * [Home | Linux Journey](https://linuxjourney.com/)
 * [tuXfiles - the Linux newbie help files, tutorials, and tips](https://web.archive.org/web/20130115060626/http://www.tuxfiles.org/)
@@ -73,7 +73,7 @@ ___
 * [Building and Installing Software Packages for Linux: Unpacking the Files](http://www.tldp.org/HOWTO/Software-Building-HOWTO-2.html)
 * [The Best Keyboard Shortcuts for Bash (aka the Linux and macOS Terminal)](https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
 
-#### CTF's
+### CTF's
 
 * [OverTheWire: Wargames](http://overthewire.org/wargames/)
 * [picoCTF - CMU Cybersecurity Competition - Homepage](https://picoctf.com/)
@@ -86,13 +86,14 @@ ___
 * [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu/)
 * [ctf_tools_1_dark_sd.png (700×715)](https://2.bp.blogspot.com/-KWCO_E9Zw84/VCxfgVydF0I/AAAAAAAAAi8/eQCKOmO3zPM/s1600/ctf_tools_1_dark_sd.png)
 
-#### InfoSec
+### InfoSec
 
 * [Embedded Security CTF](https://microcorruption.com/cpu/debugger)
 * [EanMeyer.com: Start](https://www.eanmeyer.com/p/start.html?m=1)
 * [143 Basic Linux Commands with Examples](https://www.fastwebhost.in/blog/143-linux-commands-with-examples/)
 * [reddit: the front page of the internet](https://www.reddit.com/r/netsec/wiki/start)
-* #### To-Read
+
+### To-Read
 * [Windows Exploit Development (primer) : Debugging Threads and Analyzing Memory : HowToHack](https://www.reddit.com/r/HowToHack/comments/8k0xf4/windows_exploit_development_primer_debugging/)
 * [Starting an InfoSec Career – The Megamix – Chapters 1-3 – tisiphone.net](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
 * [How to Build a Successful Career in Information Security / Cybersecurity | Daniel Miessler](https://danielmiessler.com/blog/build-successful-infosec-career/#gs.DtVCbbw)
@@ -100,7 +101,7 @@ ___
 * [What is DNS Spoofing | Cache Poisoning Attack Example | Incapsula](https://www.incapsula.com/web-application-security/dns-spoofing.html)
 * [Null Byte — The aspiring white-hat hacker/security awareness playground « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/)
 
-#### Web Sec
+### Web Sec
 
 * [Exploit Education :: Andrew Griffiths' Exploit Education](https://exploit.education/)
 * [Hack This Site!](https://www.hackthissite.org/pages/index/index.php)
@@ -110,7 +111,7 @@ ___
 * [Web Hacking 101 by Peter Yaworski [Leanpub PDF/iPad/Kindle]](https://leanpub.com/web-hacking-101)
 * [DVWA - Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
 
-#### Reversing
+### Reversing
 
 * [Welcome](http://opensecuritytraining.info/)
 * [Useful links · Kristofunek/OWASPBelfast Wiki](https://github.com/Kristofunek/OWASPBelfast/wiki/Useful-links)
